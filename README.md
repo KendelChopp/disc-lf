@@ -1,4 +1,6 @@
 # Disc Lost and Found
+**Before you read this, please check out the website at https://disclf.com.**
+
 If you are here you are likely interested in how Disc Lost and Found works from a technical perspective. This will give a high level overview of the technologies used and how they all fit together. For the time being, the project is not open source, but I will speak about the inner workings here.
 
 ## Technologies Used (not exhaustive)
